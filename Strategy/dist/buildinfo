@@ -1,0 +1,245 @@
+{
+  "program": {
+    "fileInfos": {
+      "../node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "fc43680ad3a1a4ec8c7b8d908af1ec9ddff87845346de5f02c735c9171fa98ea",
+        "signature": "fc43680ad3a1a4ec8c7b8d908af1ec9ddff87845346de5f02c735c9171fa98ea"
+      },
+      "../node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96",
+        "signature": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96"
+      },
+      "../node_modules/typescript/lib/lib.es2016.d.ts": {
+        "version": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1",
+        "signature": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1"
+      },
+      "../node_modules/typescript/lib/lib.es2017.d.ts": {
+        "version": "459097c7bdd88fc5731367e56591e4f465f2c9de81a35427a7bd473165c34743",
+        "signature": "459097c7bdd88fc5731367e56591e4f465f2c9de81a35427a7bd473165c34743"
+      },
+      "../node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "d93de5e8a7275cb9d47481410e13b3b1debb997e216490954b5d106e37e086de",
+        "signature": "d93de5e8a7275cb9d47481410e13b3b1debb997e216490954b5d106e37e086de"
+      },
+      "../node_modules/typescript/lib/lib.dom.iterable.d.ts": {
+        "version": "8329c3401aa8708426c7760f14219170f69a2cb77e4519758cec6f5027270faf",
+        "signature": "8329c3401aa8708426c7760f14219170f69a2cb77e4519758cec6f5027270faf"
+      },
+      "../node_modules/typescript/lib/lib.webworker.importscripts.d.ts": {
+        "version": "fe4e59403e34c7ff747abe4ff6abbc7718229556d7c1a5b93473fb53156c913b",
+        "signature": "fe4e59403e34c7ff747abe4ff6abbc7718229556d7c1a5b93473fb53156c913b"
+      },
+      "../node_modules/typescript/lib/lib.scripthost.d.ts": {
+        "version": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9",
+        "signature": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9"
+      },
+      "../node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "734ddc145e147fbcd55f07d034f50ccff1086f5a880107665ec326fb368876f6",
+        "signature": "734ddc145e147fbcd55f07d034f50ccff1086f5a880107665ec326fb368876f6"
+      },
+      "../node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "4a0862a21f4700de873db3b916f70e41570e2f558da77d2087c9490f5a0615d8",
+        "signature": "4a0862a21f4700de873db3b916f70e41570e2f558da77d2087c9490f5a0615d8"
+      },
+      "../node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "765e0e9c9d74cf4d031ca8b0bdb269a853e7d81eda6354c8510218d03db12122",
+        "signature": "765e0e9c9d74cf4d031ca8b0bdb269a853e7d81eda6354c8510218d03db12122"
+      },
+      "../node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "285958e7699f1babd76d595830207f18d719662a0c30fac7baca7df7162a9210",
+        "signature": "285958e7699f1babd76d595830207f18d719662a0c30fac7baca7df7162a9210"
+      },
+      "../node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "d4deaafbb18680e3143e8b471acd650ed6f72a408a33137f0a0dd104fbe7f8ca",
+        "signature": "d4deaafbb18680e3143e8b471acd650ed6f72a408a33137f0a0dd104fbe7f8ca"
+      },
+      "../node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe",
+        "signature": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe"
+      },
+      "../node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976",
+        "signature": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976"
+      },
+      "../node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230",
+        "signature": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230"
+      },
+      "../node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303",
+        "signature": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303"
+      },
+      "../node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
+        "version": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0",
+        "signature": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0"
+      },
+      "../node_modules/typescript/lib/lib.es2017.object.d.ts": {
+        "version": "c2d60b2e558d44384e4704b00e6b3d154334721a911f094d3133c35f0917b408",
+        "signature": "c2d60b2e558d44384e4704b00e6b3d154334721a911f094d3133c35f0917b408"
+      },
+      "../node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
+        "version": "b8667586a618c5cf64523d4e500ae39e781428abfb28f3de441fc66b56144b6f",
+        "signature": "b8667586a618c5cf64523d4e500ae39e781428abfb28f3de441fc66b56144b6f"
+      },
+      "../node_modules/typescript/lib/lib.es2017.string.d.ts": {
+        "version": "21df2e0059f14dcb4c3a0e125859f6b6ff01332ee24b0065a741d121250bc71c",
+        "signature": "21df2e0059f14dcb4c3a0e125859f6b6ff01332ee24b0065a741d121250bc71c"
+      },
+      "../node_modules/typescript/lib/lib.es2017.intl.d.ts": {
+        "version": "c1759cb171c7619af0d2234f2f8fb2a871ee88e956e2ed91bb61778e41f272c6",
+        "signature": "c1759cb171c7619af0d2234f2f8fb2a871ee88e956e2ed91bb61778e41f272c6"
+      },
+      "../node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
+        "version": "28569d59e07d4378cb3d54979c4c60f9f06305c9bb6999ffe6cab758957adc46",
+        "signature": "28569d59e07d4378cb3d54979c4c60f9f06305c9bb6999ffe6cab758957adc46"
+      },
+      "../node_modules/typescript/lib/lib.es2017.full.d.ts": {
+        "version": "873c09f1c309389742d98b7b67419a8e0a5fa6f10ce59fd5149ecd31a2818594",
+        "signature": "873c09f1c309389742d98b7b67419a8e0a5fa6f10ce59fd5149ecd31a2818594"
+      },
+      "../src/FlyingBehavior/Flys_Interface.ts": {
+        "version": "bd240a1c8ec584543b23efdbe6b36b827d88907a8bd6dbdf99e98bf2d93ca92e",
+        "signature": "7f6a155748e05c123d2fa32ed28d8ab6b82008d140f13f397b2e50a7c6c91238"
+      },
+      "../src/FlyingBehavior/CantFly.ts": {
+        "version": "bc55bfc83647e0bb171a9088ebb6b43a27a7965c7a4dfe96239606809bfa9c5b",
+        "signature": "619d49d45c02f1b6f0ff7add2480d2e233032b01d0e66b4d503966d5ae1504c0"
+      },
+      "../src/FlyingBehavior/FlyWithWings.ts": {
+        "version": "f95f82001d4fd92293b4ba68514cb4118564e0bafb49880f56c0c93c1ec2254c",
+        "signature": "c9937011ec0fa7d21e76770e3b30112b41c9bb5120f798cfdee4ac75cfa5a4f9"
+      },
+      "../src/FlyingBehavior/index.ts": {
+        "version": "04526cdc760e3cf41b25575907654b9b8411a5ed970b19eecc2d4508404edc11",
+        "signature": "40ddbf7f553ffc892cb2a2846e7a1ab4b3a1c3261f4542f64f0b4c55d2c3c71e"
+      },
+      "../src/Animal.ts": {
+        "version": "00def191c2291d16260ccfa92b3ae64745296d386a9535c21558981646a02a9a",
+        "signature": "664751c474b1a79a4ad160d6962b0e87246290589a2fc94c0d8d22055ddb39a9"
+      },
+      "../src/Bird.ts": {
+        "version": "3cc3defcce58f4632d1ae411161935eaaab72de1c6e12e4025834e6359067728",
+        "signature": "cd99be1e9bd909021b7d4c1fe133c5bb8107ffb8d0dd1b12c2ac5814515da5d1"
+      },
+      "../src/Dog.ts": {
+        "version": "c803ffdf46dc5bbd40bc1c8f865dd7920106419ceae651a87c30c2ae0d8fbbd9",
+        "signature": "c730298fbd498dbe3c7e1f0132bb7a5b2d46aa63f4b22fcf81737a1c05b0ba0c"
+      },
+      "../src/main.ts": {
+        "version": "7a4b48c0ff33b10a9974c065aa95f4f4f095d68ec5476da808d2bc06660b3025",
+        "signature": "a9190fb43abc43193e152369c49f856ec6ba0e4f55d8ed9ae205ccaba9d505ef"
+      },
+      "../node_modules/@types/json5/index.d.ts": {
+        "version": "96d14f21b7652903852eef49379d04dbda28c16ed36468f8c9fa08f7c14c9538",
+        "signature": "96d14f21b7652903852eef49379d04dbda28c16ed36468f8c9fa08f7c14c9538"
+      }
+    },
+    "options": {
+      "incremental": true,
+      "target": 4,
+      "module": 1,
+      "declaration": true,
+      "declarationMap": true,
+      "sourceMap": true,
+      "outDir": "./",
+      "rootDir": "../src",
+      "tsBuildInfoFile": "./buildinfo",
+      "resolveJsonModule": true,
+      "strict": true,
+      "strictPropertyInitialization": false,
+      "baseUrl": "..",
+      "esModuleInterop": true,
+      "experimentalDecorators": true,
+      "emitDecoratorMetadata": true,
+      "configFilePath": "../tsconfig.json"
+    },
+    "referencedMap": {
+      "../src/FlyingBehavior/CantFly.ts": [
+        "../src/FlyingBehavior/Flys_Interface.ts"
+      ],
+      "../src/FlyingBehavior/FlyWithWings.ts": [
+        "../src/FlyingBehavior/Flys_Interface.ts"
+      ],
+      "../src/FlyingBehavior/index.ts": [
+        "../src/FlyingBehavior/Flys_Interface.ts",
+        "../src/FlyingBehavior/CantFly.ts",
+        "../src/FlyingBehavior/FlyWithWings.ts"
+      ],
+      "../src/Animal.ts": [
+        "../src/FlyingBehavior/index.ts"
+      ],
+      "../src/Bird.ts": [
+        "../src/Animal.ts",
+        "../src/FlyingBehavior/index.ts"
+      ],
+      "../src/Dog.ts": [
+        "../src/Animal.ts",
+        "../src/FlyingBehavior/index.ts"
+      ],
+      "../src/main.ts": [
+        "../src/Dog.ts",
+        "../src/Bird.ts",
+        "../src/Animal.ts",
+        "../src/FlyingBehavior/index.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "../src/FlyingBehavior/CantFly.ts": [
+        "../src/FlyingBehavior/Flys_Interface.ts"
+      ],
+      "../src/FlyingBehavior/FlyWithWings.ts": [
+        "../src/FlyingBehavior/Flys_Interface.ts"
+      ],
+      "../src/FlyingBehavior/index.ts": [
+        "../src/FlyingBehavior/Flys_Interface.ts",
+        "../src/FlyingBehavior/CantFly.ts",
+        "../src/FlyingBehavior/FlyWithWings.ts"
+      ],
+      "../src/Animal.ts": [
+        "../src/FlyingBehavior/index.ts"
+      ],
+      "../src/Bird.ts": [
+        "../src/Animal.ts"
+      ],
+      "../src/Dog.ts": [
+        "../src/Animal.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "../src/main.ts",
+      "../node_modules/typescript/lib/lib.es5.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.d.ts",
+      "../node_modules/typescript/lib/lib.es2016.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.d.ts",
+      "../node_modules/typescript/lib/lib.dom.d.ts",
+      "../node_modules/typescript/lib/lib.dom.iterable.d.ts",
+      "../node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
+      "../node_modules/typescript/lib/lib.scripthost.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "../node_modules/typescript/lib/lib.es2016.array.include.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.object.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.string.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.intl.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.typedarrays.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.full.d.ts",
+      "../src/FlyingBehavior/Flys_Interface.ts",
+      "../src/FlyingBehavior/CantFly.ts",
+      "../src/FlyingBehavior/FlyWithWings.ts",
+      "../src/FlyingBehavior/index.ts",
+      "../src/Animal.ts",
+      "../src/Bird.ts",
+      "../src/Dog.ts",
+      "../node_modules/@types/json5/index.d.ts"
+    ]
+  },
+  "version": "3.7.5"
+}
