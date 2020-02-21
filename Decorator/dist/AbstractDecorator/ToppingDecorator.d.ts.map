@@ -1,0 +1,1 @@
+{"version":3,"file":"ToppingDecorator.d.ts","sourceRoot":"","sources":["../../src/AbstractDecorator/ToppingDecorator.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,KAAK,EAAE,MAAM,4BAA4B,CAAC;AAEnD,8BAAsB,OAAQ,SAAQ,KAAK;IAEzC,SAAS,CAAC,SAAS,EAAE,KAAK,CAAC;gBAEf,QAAQ,EAAE,KAAK;IAK3B,cAAc,IAAI,MAAM;IAIxB,OAAO,IAAI,MAAM;CAGlB"}

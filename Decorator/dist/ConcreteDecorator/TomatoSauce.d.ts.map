@@ -1,0 +1,1 @@
+{"version":3,"file":"TomatoSauce.d.ts","sourceRoot":"","sources":["../../src/ConcreteDecorator/TomatoSauce.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,MAAM,uCAAuC,CAAC;AAChE,OAAO,EAAE,KAAK,EAAE,MAAM,6BAA6B,CAAC;AAEpD,qBAAa,WAAY,SAAQ,OAAO;gBAE1B,QAAQ,EAAE,KAAK;IAI3B,OAAO,IAAI,MAAM;IAIjB,cAAc,IAAI,MAAM;CAGzB"}

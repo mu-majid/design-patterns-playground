@@ -1,0 +1,216 @@
+{
+  "program": {
+    "fileInfos": {
+      "../../../../../../.nvm/versions/node/v12.14.0/lib/node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "fc43680ad3a1a4ec8c7b8d908af1ec9ddff87845346de5f02c735c9171fa98ea",
+        "signature": "fc43680ad3a1a4ec8c7b8d908af1ec9ddff87845346de5f02c735c9171fa98ea"
+      },
+      "../../../../../../.nvm/versions/node/v12.14.0/lib/node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96",
+        "signature": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96"
+      },
+      "../../../../../../.nvm/versions/node/v12.14.0/lib/node_modules/typescript/lib/lib.es2016.d.ts": {
+        "version": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1",
+        "signature": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1"
+      },
+      "../../../../../../.nvm/versions/node/v12.14.0/lib/node_modules/typescript/lib/lib.es2017.d.ts": {
+        "version": "459097c7bdd88fc5731367e56591e4f465f2c9de81a35427a7bd473165c34743",
+        "signature": "459097c7bdd88fc5731367e56591e4f465f2c9de81a35427a7bd473165c34743"
+      },
+      "../../../../../../.nvm/versions/node/v12.14.0/lib/node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "d93de5e8a7275cb9d47481410e13b3b1debb997e216490954b5d106e37e086de",
+        "signature": "d93de5e8a7275cb9d47481410e13b3b1debb997e216490954b5d106e37e086de"
+      },
+      "../../../../../../.nvm/versions/node/v12.14.0/lib/node_modules/typescript/lib/lib.dom.iterable.d.ts": {
+        "version": "8329c3401aa8708426c7760f14219170f69a2cb77e4519758cec6f5027270faf",
+        "signature": "8329c3401aa8708426c7760f14219170f69a2cb77e4519758cec6f5027270faf"
+      },
+      "../../../../../../.nvm/versions/node/v12.14.0/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": {
+        "version": "fe4e59403e34c7ff747abe4ff6abbc7718229556d7c1a5b93473fb53156c913b",
+        "signature": "fe4e59403e34c7ff747abe4ff6abbc7718229556d7c1a5b93473fb53156c913b"
+      },
+      "../../../../../../.nvm/versions/node/v12.14.0/lib/node_modules/typescript/lib/lib.scripthost.d.ts": {
+        "version": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9",
+        "signature": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9"
+      },
+      "../../../../../../.nvm/versions/node/v12.14.0/lib/node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "734ddc145e147fbcd55f07d034f50ccff1086f5a880107665ec326fb368876f6",
+        "signature": "734ddc145e147fbcd55f07d034f50ccff1086f5a880107665ec326fb368876f6"
+      },
+      "../../../../../../.nvm/versions/node/v12.14.0/lib/node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "4a0862a21f4700de873db3b916f70e41570e2f558da77d2087c9490f5a0615d8",
+        "signature": "4a0862a21f4700de873db3b916f70e41570e2f558da77d2087c9490f5a0615d8"
+      },
+      "../../../../../../.nvm/versions/node/v12.14.0/lib/node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "765e0e9c9d74cf4d031ca8b0bdb269a853e7d81eda6354c8510218d03db12122",
+        "signature": "765e0e9c9d74cf4d031ca8b0bdb269a853e7d81eda6354c8510218d03db12122"
+      },
+      "../../../../../../.nvm/versions/node/v12.14.0/lib/node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "285958e7699f1babd76d595830207f18d719662a0c30fac7baca7df7162a9210",
+        "signature": "285958e7699f1babd76d595830207f18d719662a0c30fac7baca7df7162a9210"
+      },
+      "../../../../../../.nvm/versions/node/v12.14.0/lib/node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "d4deaafbb18680e3143e8b471acd650ed6f72a408a33137f0a0dd104fbe7f8ca",
+        "signature": "d4deaafbb18680e3143e8b471acd650ed6f72a408a33137f0a0dd104fbe7f8ca"
+      },
+      "../../../../../../.nvm/versions/node/v12.14.0/lib/node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe",
+        "signature": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe"
+      },
+      "../../../../../../.nvm/versions/node/v12.14.0/lib/node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976",
+        "signature": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976"
+      },
+      "../../../../../../.nvm/versions/node/v12.14.0/lib/node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230",
+        "signature": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230"
+      },
+      "../../../../../../.nvm/versions/node/v12.14.0/lib/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303",
+        "signature": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303"
+      },
+      "../../../../../../.nvm/versions/node/v12.14.0/lib/node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
+        "version": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0",
+        "signature": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0"
+      },
+      "../../../../../../.nvm/versions/node/v12.14.0/lib/node_modules/typescript/lib/lib.es2017.object.d.ts": {
+        "version": "c2d60b2e558d44384e4704b00e6b3d154334721a911f094d3133c35f0917b408",
+        "signature": "c2d60b2e558d44384e4704b00e6b3d154334721a911f094d3133c35f0917b408"
+      },
+      "../../../../../../.nvm/versions/node/v12.14.0/lib/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
+        "version": "b8667586a618c5cf64523d4e500ae39e781428abfb28f3de441fc66b56144b6f",
+        "signature": "b8667586a618c5cf64523d4e500ae39e781428abfb28f3de441fc66b56144b6f"
+      },
+      "../../../../../../.nvm/versions/node/v12.14.0/lib/node_modules/typescript/lib/lib.es2017.string.d.ts": {
+        "version": "21df2e0059f14dcb4c3a0e125859f6b6ff01332ee24b0065a741d121250bc71c",
+        "signature": "21df2e0059f14dcb4c3a0e125859f6b6ff01332ee24b0065a741d121250bc71c"
+      },
+      "../../../../../../.nvm/versions/node/v12.14.0/lib/node_modules/typescript/lib/lib.es2017.intl.d.ts": {
+        "version": "c1759cb171c7619af0d2234f2f8fb2a871ee88e956e2ed91bb61778e41f272c6",
+        "signature": "c1759cb171c7619af0d2234f2f8fb2a871ee88e956e2ed91bb61778e41f272c6"
+      },
+      "../../../../../../.nvm/versions/node/v12.14.0/lib/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
+        "version": "28569d59e07d4378cb3d54979c4c60f9f06305c9bb6999ffe6cab758957adc46",
+        "signature": "28569d59e07d4378cb3d54979c4c60f9f06305c9bb6999ffe6cab758957adc46"
+      },
+      "../../../../../../.nvm/versions/node/v12.14.0/lib/node_modules/typescript/lib/lib.es2017.full.d.ts": {
+        "version": "873c09f1c309389742d98b7b67419a8e0a5fa6f10ce59fd5149ecd31a2818594",
+        "signature": "873c09f1c309389742d98b7b67419a8e0a5fa6f10ce59fd5149ecd31a2818594"
+      },
+      "../src/AbstractComponent/Pizza.ts": {
+        "version": "a00d9c76fb8034757f7338b9942714e0dd3aeb510739e6bd9d2ef8031944739c",
+        "signature": "b407c359c32f2cac93d7ae35d143b1a0fd1a5dc3feada6a26446de8b5122862c"
+      },
+      "../src/ConcreteComponents/PlainPizza.ts": {
+        "version": "f29f38cf87fae9da8f1af4f67447715ca9dbb741d7d33a9fb9c39672baf8c1bf",
+        "signature": "97378b3566c575dff52c94973222f5fbc37db98bf11bba3dff810d9ccc447745"
+      },
+      "../src/AbstractDecorator/ToppingDecorator.ts": {
+        "version": "df2120f1c79bdd4582a7722db95702f56a71d0a814004ef86fb07dbee6a7fb25",
+        "signature": "8ee11d9c6397dae21ec5beec3e21efe88d9ccc69ee7af285c3474f116efa6bf7"
+      },
+      "../src/ConcreteDecorator/Mozzerlla.ts": {
+        "version": "58b38c01e1d8e3c6c15cd7e6e37bc88156d64ceed255ed2e7485602fa2b7b7fd",
+        "signature": "70c97bf6d95aa0b2b5af0a6116a253f9cf8c8dec242635b34dd6e3f042b35d0b"
+      },
+      "../src/ConcreteDecorator/TomatoSauce.ts": {
+        "version": "51a98bc285248677a7b98a6c8ab17c5092f6014f6b363934b3a9c53edfe2a252",
+        "signature": "76439cc2f0de5c90f4a3d95a95a256789c92ce14234055605ce37621b567847a"
+      },
+      "../src/main.ts": {
+        "version": "fe03aae9f65b995e4c1d177488454391a85899e2e9061464851fc5eb4225313a",
+        "signature": "a9190fb43abc43193e152369c49f856ec6ba0e4f55d8ed9ae205ccaba9d505ef"
+      }
+    },
+    "options": {
+      "incremental": true,
+      "target": 4,
+      "module": 1,
+      "declaration": true,
+      "declarationMap": true,
+      "sourceMap": true,
+      "outDir": "./",
+      "rootDir": "../src",
+      "tsBuildInfoFile": "./buildinfo",
+      "resolveJsonModule": true,
+      "strict": true,
+      "strictPropertyInitialization": false,
+      "baseUrl": "..",
+      "esModuleInterop": true,
+      "experimentalDecorators": true,
+      "emitDecoratorMetadata": true,
+      "configFilePath": "../tsconfig.json"
+    },
+    "referencedMap": {
+      "../src/ConcreteComponents/PlainPizza.ts": [
+        "../src/AbstractComponent/Pizza.ts"
+      ],
+      "../src/AbstractDecorator/ToppingDecorator.ts": [
+        "../src/AbstractComponent/Pizza.ts"
+      ],
+      "../src/ConcreteDecorator/Mozzerlla.ts": [
+        "../src/AbstractDecorator/ToppingDecorator.ts",
+        "../src/AbstractComponent/Pizza.ts"
+      ],
+      "../src/ConcreteDecorator/TomatoSauce.ts": [
+        "../src/AbstractDecorator/ToppingDecorator.ts",
+        "../src/AbstractComponent/Pizza.ts"
+      ],
+      "../src/main.ts": [
+        "../src/ConcreteComponents/PlainPizza.ts",
+        "../src/ConcreteDecorator/Mozzerlla.ts",
+        "../src/AbstractComponent/Pizza.ts",
+        "../src/ConcreteDecorator/TomatoSauce.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "../src/ConcreteDecorator/TomatoSauce.ts": [
+        "../src/AbstractComponent/Pizza.ts",
+        "../src/AbstractDecorator/ToppingDecorator.ts"
+      ],
+      "../src/ConcreteDecorator/Mozzerlla.ts": [
+        "../src/AbstractComponent/Pizza.ts",
+        "../src/AbstractDecorator/ToppingDecorator.ts"
+      ],
+      "../src/AbstractDecorator/ToppingDecorator.ts": [
+        "../src/AbstractComponent/Pizza.ts"
+      ],
+      "../src/ConcreteComponents/PlainPizza.ts": [
+        "../src/AbstractComponent/Pizza.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "../src/AbstractComponent/Pizza.ts",
+      "../src/ConcreteComponents/PlainPizza.ts",
+      "../src/AbstractDecorator/ToppingDecorator.ts",
+      "../src/ConcreteDecorator/Mozzerlla.ts",
+      "../src/ConcreteDecorator/TomatoSauce.ts",
+      "../src/main.ts",
+      "../../../../../../.nvm/versions/node/v12.14.0/lib/node_modules/typescript/lib/lib.es2015.d.ts",
+      "../../../../../../.nvm/versions/node/v12.14.0/lib/node_modules/typescript/lib/lib.es2016.d.ts",
+      "../../../../../../.nvm/versions/node/v12.14.0/lib/node_modules/typescript/lib/lib.es2017.d.ts",
+      "../../../../../../.nvm/versions/node/v12.14.0/lib/node_modules/typescript/lib/lib.es2017.full.d.ts",
+      "../../../../../../.nvm/versions/node/v12.14.0/lib/node_modules/typescript/lib/lib.es5.d.ts",
+      "../../../../../../.nvm/versions/node/v12.14.0/lib/node_modules/typescript/lib/lib.dom.d.ts",
+      "../../../../../../.nvm/versions/node/v12.14.0/lib/node_modules/typescript/lib/lib.dom.iterable.d.ts",
+      "../../../../../../.nvm/versions/node/v12.14.0/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
+      "../../../../../../.nvm/versions/node/v12.14.0/lib/node_modules/typescript/lib/lib.scripthost.d.ts",
+      "../../../../../../.nvm/versions/node/v12.14.0/lib/node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "../../../../../../.nvm/versions/node/v12.14.0/lib/node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "../../../../../../.nvm/versions/node/v12.14.0/lib/node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "../../../../../../.nvm/versions/node/v12.14.0/lib/node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "../../../../../../.nvm/versions/node/v12.14.0/lib/node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "../../../../../../.nvm/versions/node/v12.14.0/lib/node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "../../../../../../.nvm/versions/node/v12.14.0/lib/node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "../../../../../../.nvm/versions/node/v12.14.0/lib/node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "../../../../../../.nvm/versions/node/v12.14.0/lib/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "../../../../../../.nvm/versions/node/v12.14.0/lib/node_modules/typescript/lib/lib.es2016.array.include.d.ts",
+      "../../../../../../.nvm/versions/node/v12.14.0/lib/node_modules/typescript/lib/lib.es2017.object.d.ts",
+      "../../../../../../.nvm/versions/node/v12.14.0/lib/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts",
+      "../../../../../../.nvm/versions/node/v12.14.0/lib/node_modules/typescript/lib/lib.es2017.string.d.ts",
+      "../../../../../../.nvm/versions/node/v12.14.0/lib/node_modules/typescript/lib/lib.es2017.intl.d.ts",
+      "../../../../../../.nvm/versions/node/v12.14.0/lib/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts"
+    ]
+  },
+  "version": "3.7.4"
+}
