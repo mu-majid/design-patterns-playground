@@ -1,0 +1,17 @@
+{
+  "name": "Command",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node dist/main.js"
+  },
+  "dependencies": {
+    "tsconfig-paths": "^3.8.0",
+    "typescript": "^3.5.3"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
