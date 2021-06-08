@@ -6,7 +6,6 @@ const leopard: EnemyTank = new EnemyTank();
 const fredTheRobot: EnemyRobot = new EnemyRobot();
 const robotAdapter: EnemyRobotAdapter = new EnemyRobotAdapter(fredTheRobot);
 
-
 console.log('The Robot ... \n');
 
 fredTheRobot.reactToHuman('Paul');
