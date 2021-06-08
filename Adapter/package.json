@@ -1,5 +1,5 @@
 {
-  "name": "Adapter",
+  "name": "Adapter Pattern",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,6 +12,6 @@
     "typescript": "^3.5.3"
   },
   "keywords": [],
-  "author": "",
+  "author": "Muhammad Majid",
   "license": "ISC"
 }
