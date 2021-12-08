@@ -11,6 +11,7 @@
  *  3. Doublr-Checked Locking
  */
 
+
 export class Singleton {
   public static firstInstance: Singleton;
 
